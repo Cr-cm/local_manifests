@@ -6,5 +6,4 @@ repopicks:
 
 ```bash
 repopick -t qcom-perf
-repopick -t pn553-fix
 ```
