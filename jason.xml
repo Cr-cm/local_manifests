@@ -6,7 +6,7 @@
   <project name="MiNote3Dev/proprietary_vendor_xiaomi" path="vendor/xiaomi" clone-depth="1" />
 
   <!-- platform specific repos -->
-  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" />
+  <project name="MiNote3Dev/android_device_qcom_common" path="device/qcom/common" />
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" />
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" />
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" />
